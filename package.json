@@ -1,1 +1,9 @@
+{
+  "name": "nozcyy-api",
+  "version": "1.0.0",
+  "description": "An awesome API for pickup lines",
+  "main": "app.js",
+  "author": "nozcy",
+  "license": "MIT"
+}
 
